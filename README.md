@@ -2,7 +2,7 @@
 
 Version 0.1.0
 
-Using the slides created by Barbara Vreede \url{https://utrechtuniversity.github.io/workshop-computational-reproducibility/} to create a reproducible coding project
+Using the slides created by Barbara Vreede https://utrechtuniversity.github.io/workshop-computational-reproducibility/ to create a reproducible coding project
 
 
 ## Project organization
